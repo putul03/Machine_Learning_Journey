@@ -24,7 +24,7 @@ Before you dive into the code examples, ensure you have the required setup:
 
 ## Code Templates
 
-Explore a variety of code templates that I've curated during my machine learning journey:
+Explore a variety of code templates that I've created during my machine learning journey:
 
 ### Data Preprocessing
 
